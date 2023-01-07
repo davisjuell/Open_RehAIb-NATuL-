@@ -5,9 +5,20 @@
 ###
 Create website
 
-Train diagnostic ML? Google cloud???
+Upload sample videos from Sam paper
+
+Train diagnostic ML? 
+> Google cloud???
 > NeuroCaas?
 > Hugging Face?
+
+### Use case 
+
+The motivation behind the idea is capturing behavioural deficits in athletes who have suffered TBI specifically toward showing where to rehabilitate and speed up their re-familiarity with their expertise. 
+
+For example, a football player catching a ball. 
+
+This does not only show importance for those who have suffered TBI, but also to those athletes who are hoping to maximize their efficiency. The video analysis software will capture minute details in the behaviour that account for an athletes weaknesses. This can be important for scouts, trainers, and as mentioned training athletes themselves.
 
 ## References
 
