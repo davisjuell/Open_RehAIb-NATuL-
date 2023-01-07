@@ -27,6 +27,7 @@ For mind fuel tech challenge
 The motivation behind the idea is capturing behavioural deficits in athletes who have suffered TBI specifically toward showing where to rehabilitate and speed up their re-familiarity with their expertise. 
 
 For example, a football player catching a ball. 
+A swimmer swimming captured with an underwater camera.
 
 This does not only show importance for those who have suffered TBI, but also to those athletes who are hoping to maximize their efficiency. The video analysis software will capture minute details in the behaviour that account for an athletes weaknesses. This can be important for scouts, trainers, and as mentioned training athletes themselves.
 
