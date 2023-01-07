@@ -22,6 +22,9 @@ open repository of swimming pose estimation
 For mind fuel tech challenge
 > find new media majour to help with project design + presentation
 
+Review paper to cite 
+> https://mdpi-res.com/d_attachment/sensors/sensors-21-05996/article_deploy/sensors-21-05996-v3.pdf?version=1631704349
+
 ### Use case 
 
 The motivation behind the idea is capturing behavioural deficits in athletes who have suffered TBI specifically toward showing where to rehabilitate and speed up their re-familiarity with their expertise. 
