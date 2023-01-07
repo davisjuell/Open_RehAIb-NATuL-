@@ -11,6 +11,10 @@ Train diagnostic ML?
 > Google cloud???
 > NeuroCaas?
 > Hugging Face?
+> Open Pose
+
+For mind fuel tech challenge
+> find new media majour to help with project design + presentation
 
 ### Use case 
 
