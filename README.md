@@ -16,6 +16,9 @@ Train diagnostic ML?
 Rio 2016 4 x 100 Freestyle Relay - Underwater Camara
 > https://youtu.be/eOjloDn8spI
 
+open repository of swimming pose estimation
+> https://openrepository.aut.ac.nz/bitstream/handle/10292/15043/CaoX.pdf?sequence=3&isAllowed=y
+
 For mind fuel tech challenge
 > find new media majour to help with project design + presentation
 
