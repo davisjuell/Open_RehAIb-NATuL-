@@ -40,3 +40,31 @@ This does not only show importance for those who have suffered TBI, but also to 
 Inayat, S., S. Singh, A. Ghasroddashti, Qandeel, P. Egodage, I. Q. Whishaw and M. H. Mohajerani (2019). "A toolbox for automated video analysis of rodents engaged in string-pulling: Phenotyping motor behavior of mice for sensory, whole-body and bimanual skilled hand function." bioRxiv: 2019.2012.2018.881342. https://doi.org/10.1101/2019.12.18.881342
 
 Inayat, S. (2020). string_pulling_mouse_matlab, GitHub: String Pulling Behavioral Analytics, A Matlab-based toolbox for characterizing behavior of rodents engaged in string-pulling, https://github.com/samsoon-inayat/string_pulling_mouse_matlab, v4.0, aa7eb6c.
+
+@article{8765346,
+  author = {Z. {Cao} and G. {Hidalgo Martinez} and T. {Simon} and S. {Wei} and Y. A. {Sheikh}},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  title = {OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields},
+  year = {2019}
+}
+
+@inproceedings{simon2017hand,
+  author = {Tomas Simon and Hanbyul Joo and Iain Matthews and Yaser Sheikh},
+  booktitle = {CVPR},
+  title = {Hand Keypoint Detection in Single Images using Multiview Bootstrapping},
+  year = {2017}
+}
+
+@inproceedings{cao2017realtime,
+  author = {Zhe Cao and Tomas Simon and Shih-En Wei and Yaser Sheikh},
+  booktitle = {CVPR},
+  title = {Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields},
+  year = {2017}
+}
+
+@inproceedings{wei2016cpm,
+  author = {Shih-En Wei and Varun Ramakrishna and Takeo Kanade and Yaser Sheikh},
+  booktitle = {CVPR},
+  title = {Convolutional pose machines},
+  year = {2016}
+}
