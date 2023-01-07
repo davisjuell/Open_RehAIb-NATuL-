@@ -1,4 +1,4 @@
-# Open_Neural_Diagnosis
+# Open Rehaib
 
 ## Planning
 
@@ -12,6 +12,9 @@ Train diagnostic ML?
 > NeuroCaas?
 > Hugging Face?
 > Open Pose
+
+Rio 2016 4 x 100 Freestyle Relay - Underwater Camara
+> https://youtu.be/eOjloDn8spI
 
 For mind fuel tech challenge
 > find new media majour to help with project design + presentation
