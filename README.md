@@ -27,12 +27,15 @@ Review paper to cite
 
 ### Use case 
 
-The motivation behind the idea is capturing behavioural deficits in athletes who have suffered TBI specifically toward showing where to rehabilitate and speed up their re-familiarity with their expertise. 
+Capturing behavioral deficits in athletes who have suffered a traumatic brain injury (TBI) with pose estimation can be important for several reasons.
 
-For example, a football player catching a ball. 
-A swimmer swimming captured with an underwater camera.
+First, TBI can result in a range of cognitive and behavioral changes, such as problems with memory, attention, and mood. These changes can affect an athlete's ability to perform at their best, as well as their overall quality of life. By using pose estimation to track changes in an athlete's behavior over time, it may be possible to identify specific deficits that are causing problems and target interventions to address them.
 
-This does not only show importance for those who have suffered TBI, but also to those athletes who are hoping to maximize their efficiency. The video analysis software will capture minute details in the behaviour that account for an athletes weaknesses. This can be important for scouts, trainers, and as mentioned training athletes themselves.
+Second, TBI can have long-term effects on an athlete's health and well-being. By monitoring an athlete's behavior and identifying any changes that may be due to TBI, it may be possible to take steps to prevent or mitigate these effects and improve the athlete's overall prognosis.
+
+Finally, pose estimation can be a non-invasive and objective way to assess behavioral changes in athletes who have suffered a TBI. This can be especially useful in situations where it may be difficult to rely on self-report or subjective measures of behavior.
+
+Overall, capturing behavioral deficits in athletes who have suffered a TBI with pose estimation can help to identify specific problems, track changes over time, and inform interventions and support strategies to help athletes recover and return to their best.
 
 ## References
 
