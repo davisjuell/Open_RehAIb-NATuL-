@@ -2,6 +2,8 @@
 
 https://www.rehaib.tech/
 
+https://devpost.com/software/open-rehaib
+
 ### Use case 
 
 Capturing behavioral deficits in athletes who have suffered a traumatic brain injury (TBI) with pose estimation can be important for several reasons.
