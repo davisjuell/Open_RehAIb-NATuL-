@@ -1,30 +1,5 @@
 # Open Rehaib
 
-## Planning
-
-###
-Create website
-
-Upload sample videos from Sam paper
-
-Train diagnostic ML? 
-> Google cloud???
-> NeuroCaas?
-> Hugging Face?
-> Open Pose
-
-Rio 2016 4 x 100 Freestyle Relay - Underwater Camara
-> https://youtu.be/eOjloDn8spI
-
-open repository of swimming pose estimation
-> https://openrepository.aut.ac.nz/bitstream/handle/10292/15043/CaoX.pdf?sequence=3&isAllowed=y
-
-For mind fuel tech challenge
-> find new media majour to help with project design + presentation
-
-Review paper to cite 
-> https://mdpi-res.com/d_attachment/sensors/sensors-21-05996/article_deploy/sensors-21-05996-v3.pdf?version=1631704349
-
 ### Use case 
 
 Capturing behavioral deficits in athletes who have suffered a traumatic brain injury (TBI) with pose estimation can be important for several reasons.
