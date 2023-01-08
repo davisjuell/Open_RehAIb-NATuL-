@@ -39,9 +39,9 @@ This does not only show importance for those who have suffered TBI, but also to 
 ###
 
 Badiola-Bengoa, A., & Mendez-Zorrilla, A. (2021). A systematic review of the application of camera-based human pose estimation in the field of Sport and physical exercise. Sensors, 21(18), 5996. https://doi.org/10.3390/s21185996
-​
-Cao, Z., Simon, T., Wei, S.-E., & Sheikh, Y. (2017). Realtime multi-person 2D pose estimation using part affinity fields. 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). https://doi.org/10.1109/cvpr.2017.143 
-​
+
+Cao, Z., Simon, T., Wei, S.-E., & Sheikh, Y. (2017). Realtime multi-person 2D pose estimation using part affinity fields. 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). https://doi.org/10.1109/cvpr.2017.143
+
 Inayat, S., S. Singh, A. Ghasroddashti, Qandeel, P. Egodage, I. Q. Whishaw and M. H. Mohajerani (2019). "A toolbox for automated video analysis of rodents engaged in string-pulling: Phenotyping motor behavior of mice for sensory, whole-body and bimanual skilled hand function." bioRxiv: 2019.2012.2018.881342. https://doi.org/10.1101/2019.12.18.881342
  
 Inayat, S. (2020). string_pulling_mouse_matlab, GitHub: String Pulling Behavioral Analytics, A Matlab-based toolbox for characterizing behavior of rodents engaged in string-pulling, https://github.com/samsoon-inayat/string_pulling_mouse_matlab, v4.0, aa7eb6c.
